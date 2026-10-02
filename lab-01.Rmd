@@ -1,6 +1,6 @@
 ---
 title: "Lab 01 - UK Attractions"
-author: "INSERT NAME HERE"
+author: "Ethan Li"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -279,7 +279,6 @@ _Calculate the percentage change in visitor admissions from 2021 to 2022. Of the
 
 ```{r Ex_n}
 # Write your code here
-
 
 
 ```
